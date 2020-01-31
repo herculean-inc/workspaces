@@ -1,5 +1,0 @@
-workspaces-desktop (1.0-1) unstable; urgency=medium
-
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
-
- -- Herculean Inc <hello@hercules.dev>  Thu, 30 Jan 2020 08:32:26 -0600

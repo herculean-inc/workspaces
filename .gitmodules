@@ -7,3 +7,6 @@
 [submodule "workspaces-material-shell"]
 	path = workspaces-material-shell
 	url = https://github.com/herculean-inc/workspaces-material-shell.git
+[submodule "workspaces-desktop"]
+	path = workspaces-desktop
+	url = https://github.com/herculean-inc/workspaces-desktop.git
