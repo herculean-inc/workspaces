@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 30 Jan 2020 08:32:26 -0600
+Source: workspaces-desktop
+Binary: workspaces-desktop
+Architecture: source all
+Version: 1.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Description:
+ workspaces-desktop - <insert up to 60 chars description>
+Changes:
+ workspaces-desktop (1.0-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 07a99d07a2f707a384a3867ff2bc2892efe46b0f 905 workspaces-desktop_1.0-1.dsc
+ 3b332ed58f43a719b8e76f1cf2b7f2ddc3decf99 200 workspaces-desktop_1.0.orig.tar.xz
+ fe68ec798ef3488f3300cd2692620b854e931422 7776 workspaces-desktop_1.0-1.debian.tar.xz
+ 5b43c53dfadc6e860cc0a343d889efd39045245b 2404 workspaces-desktop_1.0-1_all.deb
+ 29605ac27be70c485569326f031d0d72e86c374c 5497 workspaces-desktop_1.0-1_amd64.buildinfo
+Checksums-Sha256:
+ f0dfcd161da75124927e90454d584c947d5213331e0c57a8ca7b66b388640c0d 905 workspaces-desktop_1.0-1.dsc
+ a81bdeb92e6e8c2894b08ac6a9acc16ac1fa8b9369fc13e4314854bbda4bb612 200 workspaces-desktop_1.0.orig.tar.xz
+ 12d73953456e76c740e18d41cb9ef226dee6f4ba86523af864b3dc3b38eea765 7776 workspaces-desktop_1.0-1.debian.tar.xz
+ 46cc43a75306be47e0400347c3930c22dd936b77ebcbf818eb49fa0e17277f33 2404 workspaces-desktop_1.0-1_all.deb
+ 9b480bd5f650993dee0932ad8b392751a5ecc520b06d69c5cbcc09a17c601ee1 5497 workspaces-desktop_1.0-1_amd64.buildinfo
+Files:
+ e497e24928a96f81a71e4a46ec87f9b2 905 unknown optional workspaces-desktop_1.0-1.dsc
+ d6908755d6cbf25c07cff9ea00c55fd2 200 unknown optional workspaces-desktop_1.0.orig.tar.xz
+ 9e2aed7bb7623960ba741de235db4783 7776 unknown optional workspaces-desktop_1.0-1.debian.tar.xz
+ 1b9139c18526ca5d256ffebf9ce1fefc 2404 unknown optional workspaces-desktop_1.0-1_all.deb
+ fd04902c3dc0d07881bdd6bff52e64d2 5497 unknown optional workspaces-desktop_1.0-1_amd64.buildinfo

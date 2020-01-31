@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "TRYING DESPERATELY TO ENABLE EXTENSION."
+
+gsettings set org.gnome.shell enabled-extensions "['workspaces-material-shell@herculean-inc', 'alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com']"
