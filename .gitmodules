@@ -1,0 +1,9 @@
+[submodule "workspaces-grub-theme"]
+	path = workspaces-grub-theme
+	url = https://github.com/herculean-inc/workspaces-grub-theme.git
+[submodule "workspaces-iso"]
+	path = workspaces-iso
+	url = https://github.com/herculean-inc/workspaces-iso.git
+[submodule "workspaces-material-shell"]
+	path = workspaces-material-shell
+	url = https://github.com/herculean-inc/workspaces-material-shell.git
