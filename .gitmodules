@@ -10,3 +10,6 @@
 [submodule "workspaces-desktop"]
 	path = workspaces-desktop
 	url = https://github.com/herculean-inc/workspaces-desktop.git
+[submodule "workspaces-session"]
+	path = workspaces-session
+	url = https://github.com/herculean-inc/workspaces-session.git
