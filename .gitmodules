@@ -13,3 +13,6 @@
 [submodule "workspaces-session"]
 	path = workspaces-session
 	url = https://github.com/herculean-inc/workspaces-session.git
+[submodule "workspaces-wallpapers"]
+	path = workspaces-wallpapers
+	url = https://github.com/herculean-inc/workspaces-wallpapers.git
