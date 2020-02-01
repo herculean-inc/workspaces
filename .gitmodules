@@ -16,3 +16,6 @@
 [submodule "workspaces-wallpapers"]
 	path = workspaces-wallpapers
 	url = https://github.com/herculean-inc/workspaces-wallpapers.git
+[submodule "workspaces-default-settings"]
+	path = workspaces-default-settings
+	url = https://github.com/herculean-inc/workspaces-default-settings.git
