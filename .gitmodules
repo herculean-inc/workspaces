@@ -22,3 +22,6 @@
 [submodule "workspaces-gtk-theme"]
 	path = workspaces-gtk-theme
 	url = https://github.com/herculean-inc/workspaces-gtk-theme.git
+[submodule "workspaces-theme"]
+	path = workspaces-theme
+	url = https://github.com/herculean-inc/workspaces-theme.git
