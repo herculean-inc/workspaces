@@ -19,3 +19,6 @@
 [submodule "workspaces-default-settings"]
 	path = workspaces-default-settings
 	url = https://github.com/herculean-inc/workspaces-default-settings.git
+[submodule "workspaces-gtk-theme"]
+	path = workspaces-gtk-theme
+	url = https://github.com/herculean-inc/workspaces-gtk-theme.git
